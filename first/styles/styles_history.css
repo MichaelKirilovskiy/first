@@ -1,0 +1,68 @@
+body {
+    background-image: url("../images/cell2.png");
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    text-align: center;
+    color: white;
+    border: 1px solid red;
+}
+.bghistory {
+    display: inline-block;
+    background: url("../images/bg_history.jpg");
+    width: 1280px;
+    height: 950px;
+    border: 1px solid red;
+    font-size: 0;
+    vertical-align: top;
+}
+.logo_h {
+    display: inline-block;
+    width: 1280px;
+    height: 160px;
+    /* background-color: gray; */
+    text-align: left;
+    vertical-align: top;
+}
+.history {
+    display: inline-block;
+    width: 880px;
+    height: 790px;
+    /* background-color: gray; */
+    text-align: left;
+    vertical-align: top;
+    font-size: 12px;
+    border-top: 1px solid red;
+}
+.christy {
+    display: inline-block;
+    width: 400px;
+    height: 790px;
+    /* background-color: red; */
+    text-align: right;
+    vertical-align: top;
+}
+.logo_inside_h {
+    display: inline-block;
+    margin-top: 80px;
+    margin-left: 100px;
+    /* background-color: yellow; */
+}
+.christy_inside {
+    display: inline-block;
+    /* background-color: yellow; */
+    font-size: 0;
+    text-align: right;
+    margin-top: 180px;
+}
+p {
+    padding: 10px 20px;
+    color: yellow;
+    font-size: 16px;
+    text-align: justify;
+}
+.text_h {
+    overflow: auto;
+    width: 880px;
+    height: 790px;
+}
